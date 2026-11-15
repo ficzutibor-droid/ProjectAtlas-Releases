@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "themes": [
+    {
+      "id": "aurora",
+      "name": "Aurora",
+      "description": "Kühles Nordlicht mit klaren Cyan-Akzenten.",
+      "background": "#08121F",
+      "panel": "#101E30",
+      "accent": "#45C9E8",
+      "text": "#F4F7FB",
+      "muted": "#A9B9CB",
+      "panelRaised": "#182941",
+      "panelFocused": "#1E5A70",
+      "border": "#284158",
+      "accentDark": "#147D9B",
+      "accentLight": "#96EDFF"
+    },
+    {
+      "id": "cinema-red",
+      "name": "Cinema Red",
+      "description": "Dunkles Kinodesign mit leuchtendem Rot.",
+      "background": "#100C11",
+      "panel": "#1B141B",
+      "accent": "#E34B55",
+      "text": "#FAF4F0",
+      "muted": "#C0AEB4",
+      "panelRaised": "#2B1D25",
+      "panelFocused": "#5A2632",
+      "border": "#49333C",
+      "accentDark": "#A62E3A",
+      "accentLight": "#FFADB2"
+    },
+    {
+      "id": "posterwand-amber",
+      "name": "Posterwand Amber",
+      "description": "Warmer Filmlook mit bernsteinfarbenem Fokus.",
+      "background": "#12100C",
+      "panel": "#201B14",
+      "accent": "#E4AC52",
+      "text": "#FFF8EA",
+      "muted": "#C9BDAA",
+      "panelRaised": "#30271B",
+      "panelFocused": "#624928",
+      "border": "#51412B",
+      "accentDark": "#A87529",
+      "accentLight": "#FFDB95"
+    }
+  ]
+}
