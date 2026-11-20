@@ -176,6 +176,54 @@
       "border": "#353F4F",
       "accentDark": "#4B7BC0",
       "accentLight": "#BFDDFF"
+    },
+    {
+      "id": "raster",
+      "name": "Raster",
+      "layout": "raster",
+      "description": "Dichte Cover-Übersicht mit klarer Filterung.",
+      "background": "#12100C",
+      "panel": "#201B14",
+      "accent": "#E4AC52",
+      "text": "#FFF8EA",
+      "muted": "#C9BDAA",
+      "panelRaised": "#30271B",
+      "panelFocused": "#624928",
+      "border": "#51412B",
+      "accentDark": "#A87529",
+      "accentLight": "#FFDB95"
+    },
+    {
+      "id": "magazin",
+      "name": "Magazin",
+      "layout": "magazin",
+      "description": "Große redaktionelle Filmthemen und kuratierte Reihen.",
+      "background": "#100C11",
+      "panel": "#1B141B",
+      "accent": "#E34B55",
+      "text": "#FAF4F0",
+      "muted": "#C0AEB4",
+      "panelRaised": "#2B1D25",
+      "panelFocused": "#5A2632",
+      "border": "#49333C",
+      "accentDark": "#A62E3A",
+      "accentLight": "#FFADB2"
+    },
+    {
+      "id": "kompakt",
+      "name": "Kompakt",
+      "layout": "kompakt",
+      "description": "Viele Filme gleichzeitig mit kleiner Vorschau.",
+      "background": "#0A0A0A",
+      "panel": "#181818",
+      "accent": "#E50914",
+      "text": "#FFFFFF",
+      "muted": "#B3B3B3",
+      "panelRaised": "#232323",
+      "panelFocused": "#441217",
+      "border": "#373737",
+      "accentDark": "#B70710",
+      "accentLight": "#FF4C52"
     }
   ]
 }
