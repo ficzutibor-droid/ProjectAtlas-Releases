@@ -2,6 +2,22 @@
   "schemaVersion": 1,
   "themes": [
     {
+      "id": "kino",
+      "name": "Kino",
+      "description": "Großer Filmfokus mit Trailerbereich und kuratierten Reihen.",
+      "background": "#08121F",
+      "panel": "#101E30",
+      "accent": "#45C9E8",
+      "text": "#F4F7FB",
+      "muted": "#A9B9CB",
+      "panelRaised": "#182941",
+      "panelFocused": "#1E5A70",
+      "border": "#284158",
+      "accentDark": "#147D9B",
+      "accentLight": "#96EDFF",
+      "layout": "kino"
+    },
+    {
       "id": "aurora",
       "name": "Aurora",
       "description": "Kühles Nordlicht mit klaren Cyan-Akzenten.",
