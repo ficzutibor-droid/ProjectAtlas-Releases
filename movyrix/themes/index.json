@@ -224,6 +224,38 @@
       "border": "#373737",
       "accentDark": "#B70710",
       "accentLight": "#FF4C52"
+    },
+    {
+      "id": "plex",
+      "name": "MOVYRIX Plex",
+      "description": "Kompakte Mediathek mit Weiterschauen, Neuzugängen und Live-TV.",
+      "background": "#0E1014",
+      "panel": "#1A1D23",
+      "accent": "#E5A00D",
+      "text": "#F3F3F3",
+      "muted": "#A9ADB5",
+      "panelRaised": "#252932",
+      "panelFocused": "#4A3713",
+      "border": "#383D46",
+      "accentDark": "#A97100",
+      "accentLight": "#FFC44D",
+      "layout": "plex"
+    },
+    {
+      "id": "apple-tv",
+      "name": "Apple TV",
+      "description": "Cinematische Startseite mit Highlights und kuratierten Filmreihen.",
+      "background": "#080A10",
+      "panel": "#151922",
+      "accent": "#69C5E8",
+      "text": "#F8F8FA",
+      "muted": "#9EA4AD",
+      "panelRaised": "#242A35",
+      "panelFocused": "#293C4B",
+      "border": "#323843",
+      "accentDark": "#27677E",
+      "accentLight": "#C1EDFF",
+      "layout": "apple-tv"
     }
   ]
 }
