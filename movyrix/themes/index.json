@@ -14,7 +14,8 @@
       "panelFocused": "#1E5A70",
       "border": "#284158",
       "accentDark": "#147D9B",
-      "accentLight": "#96EDFF"
+      "accentLight": "#96EDFF",
+      "layout": "kino"
     },
     {
       "id": "cinema-red",
@@ -29,7 +30,8 @@
       "panelFocused": "#5A2632",
       "border": "#49333C",
       "accentDark": "#A62E3A",
-      "accentLight": "#FFADB2"
+      "accentLight": "#FFADB2",
+      "layout": "magazin"
     },
     {
       "id": "posterwand-amber",
@@ -44,7 +46,120 @@
       "panelFocused": "#624928",
       "border": "#51412B",
       "accentDark": "#A87529",
-      "accentLight": "#FFDB95"
+      "accentLight": "#FFDB95",
+      "layout": "raster"
+    },
+    {
+      "id": "entdecken",
+      "name": "Entdecken",
+      "layout": "entdecken",
+      "description": "Genre- und Schauspielerfilter mit passenden Filmreihen.",
+      "background": "#0A121C",
+      "panel": "#141F2D",
+      "accent": "#3CDCBF",
+      "text": "#FFFFFF",
+      "muted": "#CBD3DE",
+      "panelRaised": "#1D2B3A",
+      "panelFocused": "#195B56",
+      "border": "#2D434C",
+      "accentDark": "#14917D",
+      "accentLight": "#73FFE4"
+    },
+    {
+      "id": "posterkarussell",
+      "name": "Posterkarussell",
+      "layout": "posterkarussell",
+      "description": "Zentriertes Cover mit seitlichen Filmvorschauen.",
+      "background": "#071318",
+      "panel": "#0E2027",
+      "accent": "#26E1BE",
+      "text": "#FFFFFF",
+      "muted": "#C8D5D9",
+      "panelRaised": "#152B31",
+      "panelFocused": "#185A53",
+      "border": "#284346",
+      "accentDark": "#0F8C73",
+      "accentLight": "#78FFE1"
+    },
+    {
+      "id": "schauspieler",
+      "name": "Schauspieler",
+      "layout": "schauspieler",
+      "description": "Schauspieler im Mittelpunkt, mit ihren Filmen darunter.",
+      "background": "#10111C",
+      "panel": "#1B1D2C",
+      "accent": "#A082FF",
+      "text": "#FFFFFF",
+      "muted": "#D0CDDC",
+      "panelRaised": "#262738",
+      "panelFocused": "#483A74",
+      "border": "#3D3D52",
+      "accentDark": "#6E58CD",
+      "accentLight": "#CFBEFF"
+    },
+    {
+      "id": "filmplan",
+      "name": "Filmplan",
+      "layout": "filmplan",
+      "description": "Programmübersicht mit Kategorien, Jetzt und Als Nächstes.",
+      "background": "#0C111B",
+      "panel": "#171F2D",
+      "accent": "#48BEFF",
+      "text": "#FFFFFF",
+      "muted": "#CBD2DD",
+      "panelRaised": "#202B3C",
+      "panelFocused": "#265681",
+      "border": "#374658",
+      "accentDark": "#287DB9",
+      "accentLight": "#99DCFF"
+    },
+    {
+      "id": "wuerfel",
+      "name": "Würfel",
+      "layout": "wuerfel",
+      "description": "Überraschungsfilm mit Genre-, Cast- und Ähnlichkeitswahl.",
+      "background": "#180E1D",
+      "panel": "#271830",
+      "accent": "#FF8459",
+      "text": "#FFFFFF",
+      "muted": "#E0D0E5",
+      "panelRaised": "#34223E",
+      "panelFocused": "#783646",
+      "border": "#4E3755",
+      "accentDark": "#C34B41",
+      "accentLight": "#FFC495"
+    },
+    {
+      "id": "sammlung",
+      "name": "Sammlung",
+      "layout": "sammlung",
+      "description": "Inhalts-Hub mit Weiterschauen, Neuzugängen und Sammlungen.",
+      "background": "#09141E",
+      "panel": "#11212F",
+      "accent": "#4CD2BE",
+      "text": "#FFFFFF",
+      "muted": "#C6D4DE",
+      "panelRaised": "#1A2D3B",
+      "panelFocused": "#1E5A54",
+      "border": "#2C444E",
+      "accentDark": "#198778",
+      "accentLight": "#8FFAE2"
+    },
+    {
+      "id": "premium",
+      "name": "Premium",
+      "layout": "premium",
+      "description": "Großflächiger Filmfokus mit großzügigen kuratierten Reihen.",
+      "background": "#0A0D16",
+      "panel": "#151A27",
+      "accent": "#85B9FF",
+      "text": "#FFFFFF",
+      "muted": "#C9D2E0",
+      "panelRaised": "#1D2332",
+      "panelFocused": "#35537B",
+      "border": "#353F4F",
+      "accentDark": "#4B7BC0",
+      "accentLight": "#BFDDFF"
     }
   ]
 }
